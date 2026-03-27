@@ -44,3 +44,16 @@ refine the candidate pool for each position.
 - Worked to maintain strong working relationships
 with the Human Resources staff and Sales
 managers, resulting in positive and productive
+
+## **Education**
+- 2024-2025 HTML/CSS, PurpleSchool
+- 2021 HRPR IT-recruiting school, Minsk
+- 2016-2018 Academy of Management, Minsk
+- 2011-2016 Belarusian State University of
+Culture and Arts, Minsk
+
+## **Languages**
+
+- Russian - Native
+- English - A2+ (in progress)
+- Polish - A2
